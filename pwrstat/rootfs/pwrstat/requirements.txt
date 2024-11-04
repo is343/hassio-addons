@@ -1,0 +1,5 @@
+flask
+paho-mqtt
+prometheus_client
+ruamel.yaml
+voluptuous

@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: (is343 fork) dm82m Home Assistant add-on repository
+url: 'https://github.com/is343/hassio-addons'
+maintainer: Ivan
